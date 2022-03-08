@@ -1,8 +1,24 @@
-# whats_helper
+# Whats_helper: A utility app for sending WhatsApp messages
 
 A flutter application used to send whatsapp messages directly to the the contact number without saving contact in the contact directory.
+
+“Hey, 909*****40 is my number please ping on on WhatsApp so that I could send you your bill.”/n
+
+*// in mind// “Saving a number and then sending a message just for a bill, uh lots of work.”/n
+
+*“Look on your face shows that you don’t know about a new app where you could send WhatsApp to people who aren’t in your contact list.”
+
+*“OMG, please tell me about it!”/n
+
+Saving numbers of people with whom you down have connection could be a leak to your privacy, as those people could also see the stories you shared for the people you know. So here is an application that will help you to WhatsApp anyone, without saving their number on your phone, here you could just enter the number you want to send a message on WhatsApp, and our application with directly take you to WhatsApp and open the chat of the person whose number you entered./n
+
+Our application is totally safe to use as we don’t save any of the information you enter or the numbers that you provide./n
+
+We will be building a single-paged flutter application, it will ask for a phone number that is registered on WhatsApp and below that would be a button that will lead directly to WhatsApp where you could send the message to the person who isn’t in your contact list. It will look as follow:
 
 ## Screenshots of the application:
 <img src="https://i.ibb.co/JQZZQMB/Screenshot-2022-03-03-21-49-44-92-0ee45109bdbc35364a409d828b05193d.jpg">
 <img src="https://i.ibb.co/CsQ8jb0/Screenshot-2022-03-03-21-49-48-40-0ee45109bdbc35364a409d828b05193d.jpg">
 <img src="https://i.ibb.co/Z2tcNHF/Screenshot-2022-03-03-21-49-54-29-0ee45109bdbc35364a409d828b05193d.jpg">
+
+That’s all, it is a very simple and utmost useful app.
