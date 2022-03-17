@@ -1,7 +1,7 @@
 # WhatsHelper
 ## A utility app for sending WhatsApp messages
 
-A flutter application used to send whatsapp messages directly to the the contact number without saving contact in the contact directory.
+A flutter application used to send whatsapp messages directly to the contact number without saving contact in the contact directory.
 
 “Hey, 909*****40 is my number please ping on on WhatsApp so that I could send you your bill.”/n
 
