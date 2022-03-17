@@ -1,4 +1,5 @@
-# Whats_helper: A utility app for sending WhatsApp messages
+# WhatsHelper
+## A utility app for sending WhatsApp messages
 
 A flutter application used to send whatsapp messages directly to the the contact number without saving contact in the contact directory.
 
@@ -18,7 +19,15 @@ We will be building a single-paged flutter application, it will ask for a phone 
 
 ## Screenshots of the application:
 <img src="https://i.ibb.co/JQZZQMB/Screenshot-2022-03-03-21-49-44-92-0ee45109bdbc35364a409d828b05193d.jpg">
+Entering the mobile number<br><br>
 <img src="https://i.ibb.co/CsQ8jb0/Screenshot-2022-03-03-21-49-48-40-0ee45109bdbc35364a409d828b05193d.jpg">
+Option to select the respective country<br><br>
 <img src="https://i.ibb.co/Z2tcNHF/Screenshot-2022-03-03-21-49-54-29-0ee45109bdbc35364a409d828b05193d.jpg">
+Searching for the desired Country<br><br>
 
-That’s all, it is a very simple and utmost useful app.
+## Usage of this app:
+
+⚫ There is no option in the Whatsapp app to directly message a number.<br>
+⚫ So while sending the message, we first have to save that number and then only we are able to message the desired number.<br>
+⚫ But sometimes we have to message a person only once or we don't want to save that number because it increases the number of contacts saved, in that case our app is the ultimate solution of this problem.<br>
+⚫ In this way we can directly send a message to a number on Whatsapp without saving their contact details.<br>
